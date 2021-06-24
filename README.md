@@ -8,7 +8,7 @@
 -  The application use Inmemory Database so there is no need to Setup a Database
 
 **Prerequisites**
-		-	Visual Studio 2019
+   - Visual Studio 2019
 
 **Setup**
   -  Clone the repo
