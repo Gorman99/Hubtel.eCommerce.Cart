@@ -1,7 +1,7 @@
 # Hubtel.eCommerce.Cart
-**About Project
+**About Project**
 
-       Cart is an e-commerce cart API experience for users.
+       Cart is an e-commerce cart API 
 **Getting Started**
 
  - To run the application locally, please follow the steps below.
