@@ -1,14 +1,14 @@
 # Hubtel.eCommerce.Cart
-About Project 
+**About Project
 
-       Cart is an API to be used to unify the e-commerce cart experience for users.
+       Cart is an e-commerce cart API experience for users.
+**Getting Started**
 
-Getting Started
-            To run the application locally, please follow the steps below.
-            The application use Inmemory Database so there is no need to 
+ - To run the application locally, please follow the steps below.
+-  The application use Inmemory Database so there is no need to Setup a Database
 
-Prerequisites
-        Visual Studio 2019
+**Prerequisites**
+		-	Visual Studio 2019
 
-Setup
-    Clone the repo
+**Setup**
+  -  Clone the repo
